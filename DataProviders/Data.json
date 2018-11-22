@@ -1,0 +1,29 @@
+{
+
+  "testsiteurl":"https://www.conquestevents.net/landing",
+
+  "locators":{
+
+    "homepage":{
+
+      "buttontext":"Customer"
+
+
+
+    },
+    "testdata":{
+
+
+        "fName":"Daniel",
+        "lName":"Shiosaky",
+        "pCode":"110095",
+      "Username":"dshiosaky",
+      "PassWord":"Test1234"
+    }
+
+
+    }
+
+
+
+  }
