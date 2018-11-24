@@ -1,0 +1,72 @@
+{
+
+  "testsiteurl":"https://www.conquestevents.net/landing",
+
+  "locators":{
+
+    "TollbarData":{
+
+      "sidePanelButton":"md-icon-button side-panel-button sp-button md-button md-ink-ripple",
+      "fitnessMenuItem":"//div[@class='md-panel side-panel']/div/div[2]/span[.='FITNESS']",
+      "RacesMenuItem":"//div[@class='md-panel side-panel']/div/div[3]/span[.='RACES']",
+      "FAQMenuItem":"//div[@class='md-panel side-panel']/div/div[4]/span[.='FAQ']"
+              },
+    "SearchBarData":{
+      "AnyDateMenuItem":"//div[@class='md-text' and contains(text(),'Any Date')]",
+      "TodayMenuItem":"//div[@class='md-text' and contains(text(),'Today')]",
+      "TomorrowMenuItem":"//div[@class='md-text' and contains(text(),'Tomorrow')]",
+      "ThisWeekMenuItem":"//div[@class='md-text' and contains(text(),'This Week')]",
+      "ThisWeekendMenuItem":"//div[@class='md-text' and contains(text(),'This Weekend')]",
+      "NextWeekMenuItem":"//div[@class='md-text' and contains(text(),'Next Week')]",
+      "NextMonthMenuItem":"//div[@class='md-text' and contains(text(),'Next Month')]",
+      "CustomDateInput":"//input[@class='md-datepicker-input']"
+
+                },
+    "FooterData":{
+      "conquestEventsLink":"//img[@alt='logo-events']",
+      "conquestPhotosLink":"//img[@alt='logo-photos']",
+      "conquestRegistrationLink":"//img[@alt='logo-registration']",
+      "ConquesScoringLink":"//img[@alt='logo-scoring']",
+      "conquestBandLink":"//img[@alt='logo-band']",
+      "conquestAppLink":"//img[@alt='logo-app']",
+      "contactEmailLink":"//div[@class='social']//a[@href='mailto:support@sweatworks.net']",
+      "contactPhone":"//a[contains(text(),'866-864-8930')]",
+      "skypeContactLink":"//a[contains(text(),'contact.sw')]"
+                  },
+    "LiveChatData":{
+      "openLiveChatWindow":"//div[@id='zlstxtcnt']",
+      "EnterName":"//input[@id='name']']",
+      "EnterEmail":"//input[@id='email']']",
+      "TypeQuestion":"//input[@id='question']']",
+      "StartChat":"//input[@id='btnaddvisitor']",
+      "CloseChatWindow":"//em[@id='zlscloseimg']",
+      "chatiframe":"//iframe[@id='zlsiframe']",
+      "chatWaitingForm":"//div[@id='waitingform' and contains(text(),'Please wait while our support representative attends your chat')]"
+
+    },
+
+    "testdata":{
+      "signUpFName":"Joe",
+      "signUpLName":"Tester",
+      "zip":"00000",
+      "Address":"123 elm St.",
+      "City":"La Paz",
+
+      "Username":"dshiosaky",
+      "PassWord":"Test1234",
+
+      "searchCustomDate":"12/12/2018",
+      "location":"El Paso, El Paso County, TX, US",
+      "eventSearch":"100k Meter Challenge",
+
+      "chatUserName":"Joe",
+      "chatUserEmail":"joe.tester@test.com",
+      "chatEnterQuestion":"will someone answer my questions?"
+    }
+
+
+    }
+
+
+
+  }
