@@ -12,7 +12,7 @@ describe('check live chat functionality', function() {
 
 
     });
-    it('Fill in the Required data for the chat  ', function () {
+    /*it('Fill in the Required data for the chat  ', function () {
         base.navigateToUrl(Data.testsiteurl);
         browser.waitForAngularEnabled(false);
         liveChat.openChatWindow();
@@ -21,7 +21,7 @@ describe('check live chat functionality', function() {
 
 
     });
-
+*/
 
 
 
