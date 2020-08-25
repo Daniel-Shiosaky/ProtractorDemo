@@ -1,14 +1,13 @@
 {
-	"name": "ProtractorTest",
+	"name": "protractor_test",
 	"version": "0.0.0",
 	"description": "ProtractorTest",
 	"main": "app.js",
 	"author": {
 		"name": "Daniel Shiosaky",
-		"email": ""
+		"email": "test@test.com"
 	},
 	"dependencies": {
-
 		"protractor": "~5.4.1",
 		"selenium-webdriver": "^4.0.0-alpha.1",
 		"jasmine-allure-reporter": "~1.0.2",
