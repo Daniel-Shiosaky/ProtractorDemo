@@ -8,7 +8,7 @@
 		"email": "test@test.com"
 	},
 	"dependencies": {
-		"protractor": "~5.4.1",
+		"protractor": "~5.4.4",
 		"selenium-webdriver": "^4.0.0-alpha.1",
 		"jasmine-allure-reporter": "~1.0.2",
 		"jasmine-data-provider": "^2.2.0"
